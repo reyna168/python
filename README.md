@@ -1,1 +1,33 @@
 # python
+
+//0816教學投影片 2017-08-16
+https://fgc.stpi.narl.org.tw/activity/videoDetail/4b1141305ddf5522015dea4ada4d0249
+
+//李宏毅老師
+
+https://www.youtube.com/watch?v=xki61j7z-30&index=16&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49
+
+//python 教學
+
+https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/001431658427513eef3d9dd9f7c48599116735806328e81000
+
+李宏毅老師投影片
+http://speech.ee.ntu.edu.tw/~tlkagk/SpeechGrand.pdf
+
+1. 詞向量
+https://drive.google.com/open?id=0B7GHhzIVHBJGc2J0SXJxeFRNVE0
+
+2. RNN
+(1) RNNLM
+https://goo.gl/52XXae
+(2) 其他使用RNN的方法
+https://docs.google.com/presentation/d/1qz3Hcd7ChHIT6fk-KE56_LQ9G6ECbEoNpsE8o3_zSsk/edit#slide=id.p
+
+3. Seq2Seq
+https://github.com/ywk991112/FSGC-pytorch-tutorial/blob/practice/model.ipynb
+ 
+
+
+
+
+
