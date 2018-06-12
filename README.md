@@ -33,8 +33,8 @@ kares
 https://rpubs.com/skydome20/R-Note16-Ensemble_Learning
 http://wepon.me/files/gbdt.pdf
 
-
-
+李宏毅筆記
+http://violin-tao.blogspot.com/2018/01/ml-ensemble.html
 
 
  
