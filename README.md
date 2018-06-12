@@ -25,6 +25,18 @@ https://docs.google.com/presentation/d/1qz3Hcd7ChHIT6fk-KE56_LQ9G6ECbEoNpsE8o3_z
 
 3. Seq2Seq
 https://github.com/ywk991112/FSGC-pytorch-tutorial/blob/practice/model.ipynb
+
+
+kares
+#Enseble 
+
+https://rpubs.com/skydome20/R-Note16-Ensemble_Learning
+http://wepon.me/files/gbdt.pdf
+
+
+
+
+
  
 
 
