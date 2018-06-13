@@ -34,7 +34,17 @@ https://rpubs.com/skydome20/R-Note16-Ensemble_Learning
 http://wepon.me/files/gbdt.pdf
 
 李宏毅筆記
+1. Bagging
+2. Boosting
+3. Stacking
+
 http://violin-tao.blogspot.com/2018/01/ml-ensemble.html
+
+集成学习总结 & Stacking方法详解
+https://blog.csdn.net/willduan1/article/details/73618677
+
+kaggle 
+https://kaggle2.blob.core.windows.net/forum-message-attachments/79598/2514/FINAL_ARCHITECTURE.png
 
 
  
