@@ -48,8 +48,9 @@ https://kaggle2.blob.core.windows.net/forum-message-attachments/79598/2514/FINAL
 
 
  
+//BogoToBogo
+//SCIKIT-LEARN 
 
-
-
+https://www.bogotobogo.com/python/scikit-learn/scikit_machine_learning_Supervised_Learning_Unsupervised_Learning.php
 
 
