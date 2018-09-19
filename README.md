@@ -54,3 +54,9 @@ https://kaggle2.blob.core.windows.net/forum-message-attachments/79598/2514/FINAL
 https://www.bogotobogo.com/python/scikit-learn/scikit_machine_learning_Supervised_Learning_Unsupervised_Learning.php
 
 
+python Tutorial
+
+https://www.bogotobogo.com/python/python_serialization_pickle_json.php
+
+
+
