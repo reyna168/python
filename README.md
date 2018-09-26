@@ -58,5 +58,7 @@ python Tutorial
 
 https://www.bogotobogo.com/python/python_serialization_pickle_json.php
 
+//作者: 莫烦 機器學習 中文 
+https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/2-4-LSTM/
 
 
