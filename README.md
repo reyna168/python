@@ -61,4 +61,19 @@ https://www.bogotobogo.com/python/python_serialization_pickle_json.php
 //作者: 莫烦 機器學習 中文 
 https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/2-4-LSTM/
 
+pip install mysqlclient==1.3.12
+
+================================
+yum install python-devel
+yum install mysql-devel
+yum install gcc
+================================
+
+sudo yum update
+sudo yum install mariadb-server
+sudo systemctl enable mariadb
+sudo systemctl start mariadb
+systemctl status mariadb
+
+
 
