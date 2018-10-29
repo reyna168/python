@@ -75,5 +75,13 @@ sudo systemctl enable mariadb
 sudo systemctl start mariadb
 systemctl status mariadb
 
+#不錯的 教學網站 python
+https://hk.saowen.com/a/be98d4b03c332c7e2bfc11daa345fb95c916458bed7da87557145d1dd903461d
+https://hk.saowen.com/a/9aad407647099615dd86b059acb98ed9c1f8e6c35285c625f2f8190c61793e04
+# mysql
+https://hk.saowen.com/a/6eaaee3aa0b98cbff6aac51ac34f94cb944705157b4f4ef02641651c02115e61
+
+
+
 
 
