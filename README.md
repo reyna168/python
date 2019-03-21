@@ -84,5 +84,6 @@ https://hk.saowen.com/a/6eaaee3aa0b98cbff6aac51ac34f94cb944705157b4f4ef02641651c
 //李宏毅老師 gan
 https://download.csdn.net/download/a3630623/10139075
 
-
+// Lecture 13 | Generative Models Stanford University School of Engineering
+https://www.youtube.com/watch?v=5WoItGTWV54
 
