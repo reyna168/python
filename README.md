@@ -87,3 +87,7 @@ https://download.csdn.net/download/a3630623/10139075
 // Lecture 13 | Generative Models Stanford University School of Engineering
 https://www.youtube.com/watch?v=5WoItGTWV54
 
+《Python資料分析與挖掘實戰》第13章——迴歸+DNN
+https://www.itread01.com/content/1546860274.html
+
+
